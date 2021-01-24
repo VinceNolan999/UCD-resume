@@ -224,3 +224,34 @@ footer {
 .three-reasons-heading {
     margin-bottom:15px;
 }
+
+
+
+.Personal-info-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.Personal-info-item .key,
+.Personal-info-item .value {
+    padding-right: 8px;
+    display: inline-block;
+}
+
+.Personal-info-item .key {
+        width: 30%;
+        margin-right: 21px;
+        padding-top: 2px;
+        vertical-align:  top;
+    }
+
+.Personal-info-item .key p {
+    font-weight: 700;
+
+}
+.Personal-info-item .value {
+    position: relative;
+    width: 60%;
+            
+}
